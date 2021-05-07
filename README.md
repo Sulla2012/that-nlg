@@ -7,7 +7,9 @@ and generating text from it. The typical usage is
 from that_text_gen import model as generate_model
 
 model = generate_model('marx')
+
 model.load_model()
+
 generated_text = model.generate_text()
 
 where 'marx' can be any supported philosopher name. Currently accepted names are 'marx' and 'wittgenstein', but you can check the subdirectory of final_weights as the
