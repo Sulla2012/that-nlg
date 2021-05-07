@@ -18,16 +18,21 @@ def build_model(vocab_size, embedding_dim, rnn_units, batch_size):
     return model
 
 class model:
-	def __init__(self, name, seq_len = 100):
-		self.name = name
+	def __init__(self, name = None, seq_len = 100):
 		
-		text = open('../../texts/{}.txt'.format(self.name), 'rb').read().decode(encoding='utf-8')
-		essays = open('../../texts/essays.txt', 'rb').read().decode(encoding='utf-8')
+		if name is None:
+			self.name = 'generic'
+			essays = open('../../texts/essays.txt', 'rb').read().decode(encoding='utf-8')
+			self.text = essays
+		else:
+			self.name = name
+			text = open('../../texts/{}.txt'.format(self.name), 'rb').read().decode(encoding='utf-8')
+			essays = open('../../texts/essays.txt', 'rb').read().decode(encoding='utf-8')
 
-		text = text + essays
-		self.text = text
+			text = text + essays
+			self.text = text
 
-		self.vocab = sorted(set(text))
+		self.vocab = sorted(set(self.text))
 		self.char2idx = {unique:idx for idx, unique in enumerate(self.vocab)}
 		self.idx2char = np.array(self.vocab)
 		self.text_as_int = np.array([self.char2idx[char] for char in self.text])
@@ -89,7 +94,7 @@ class model:
 		ret_str = start_string + ''.join(text_generated)
 		ret_str = ret_str.replace('\n', ' ')
 		ret_str = ret_str.split('.')
-		ret_str = ''.join(ret_str[1:])
+		ret_str = '.'.join(ret_str[1:])
 		return (ret_str)
 
 
