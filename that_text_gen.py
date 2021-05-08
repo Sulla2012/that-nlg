@@ -22,12 +22,12 @@ class model:
 		
 		if name is None:
 			self.name = 'generic'
-			essays = open('../../texts/essays.txt', 'rb').read().decode(encoding='utf-8')
+			essays = open('./texts/essays.txt', 'rb').read().decode(encoding='utf-8')
 			self.text = essays
 		else:
 			self.name = name
-			text = open('../../texts/{}.txt'.format(self.name), 'rb').read().decode(encoding='utf-8')
-			essays = open('../../texts/essays.txt', 'rb').read().decode(encoding='utf-8')
+			text = open('./texts/{}.txt'.format(self.name), 'rb').read().decode(encoding='utf-8')
+			essays = open('./texts/essays.txt', 'rb').read().decode(encoding='utf-8')
 
 			text = text + essays
 			self.text = text
@@ -61,10 +61,11 @@ class model:
 		
 		self.generative_model.build(tf.TensorShape([1,None]))
 
-	def generate_text(self):
+	def generate_text(self, num=1000):
 		i = int(np.random.randint(0, len(self.text)-100))
 		start_string = self.text[i:int(i+100)]
-		num_gen = int(np.random.normal(1000, 300))
+		num = max(1, num)
+		num_gen = max(1,abs(int(np.random.normal(num, int(num/4)))))
 		input_eval = [self.char2idx[s] for s in start_string]
 		input_eval = tf.expand_dims(input_eval, 0)
     

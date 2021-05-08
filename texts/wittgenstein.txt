@@ -1,0 +1,1431 @@
+The thoughts which I publish in what follows are the precipitate of 
+philosophical investigations which have occupied me for the last 
+sixteen years. They concern many subjects: the concepts of meaning, 
+of understanding, of a proposition, of logic, the foundations of 
+mathematics, states of consciousness, and other things. I have written 
+down all these thoughts as remarks , short paragraphs, of which there is 
+sometimes a fairly long chain about the same subject, while I some¬ 
+times make a sudden change, jumping from one topic to another.—It 
+was my intention at first to bring all this together in a book whose 
+form I pictured differently at different times. But the essential thing 
+was that the thoughts should proceed from one subject to another 
+in a natural order and without breaks. 
+
+After several unsuccessful attempts to weld my results together into 
+such a whole, I realized that I should never succeed. The best that I 
+could write would never be more than philosophical remarks; my 
+thoughts were soon crippled if I tried to force them on in any single 
+
+direction against their natural inclination.-And this was, of course, 
+
+connected with the very nature of the investigation. For this compels 
+us to travel over a wide field of thought criss-cross in every direction.— 
+The philosophical remarks in this book are, as it were, a number of 
+sketches of landscapes which were made in the course of these long 
+and involved journeyings. 
+
+The same or almost the same points were always being approached 
+afresh from different directions, and new sketches made. Very many of 
+these were badly drawn or uncharacteristic, marked by all the defects 
+of a weak draughtsman. And when they were rejected a number of 
+tolerable ones were left, which now had to be arranged and sometimes 
+cut down, so that if you looked at them you could get a picture of the 
+landscape. Thus this book is really only an album. 
+
+Up to a short time ago I had really given up the idea of publishing 
+my work in my lifetime. It used, indeed, to be revived from time to 
+time: mainly because I was obliged to learn that my results (which I 
+had communicated in lectures, typescripts and discussions), variously misunderstood, more or less mangled or watered down, were in circu¬ 
+lation. This stung my vanity and I had difficulty in quieting it. 
+
+Four* years ago I had occasion to re-read my first book (the Tractates 
+Loffco-Pbilosophicus ) and to explain its ideas to someone. It 
+suddenly seemed to me that I should publish those old thoughts and 
+the new ones together: that the latter could be seen in the right light 
+only by contrast with and against the background of my old way of 
+thinking. 1 
+
+For since beginning to occupy myself with philosophy again, sixteen 
+years ago, I have been forced to recognize grave mistakes in what I 
+wrote in that first book. I was helped to realize these mistakes—to a 
+degree which I myself am hardly able to estimate—by the criticism 
+which my ideas encountered from Frank Ramsey, with whom I 
+discussed them in innumerable conversations during the last two years 
+of his life. Even more than to this—always certain and forcible— 
+criticism I am indebted to that which a teacher of this university, 
+Mr. P. Sraffa, for - many years unceasingly practised on my thoughts. 
+
+I am indebted to this stimulus for the most consequential ideas of this 
+book. 
+
+For more than one reason what I publish here will have points of 
+contact with what other people are writing to-day.—If my remarks 
+do not bear a stamp which marks them as mine,—I do not wish to lay 
+any further claim to them as my property. 
+
+I make them public with doubtful feelings. It is not impossible that 
+it should fall to the lot of this work, in its poverty and in the darkness 
+of this time, to bring light into one brain or another—but, of course, 
+it is not likely. 
+
+I should not like my writing to spare other people the trouble of 
+thinking . But, if possible, to stimulate someone to thoughts of his own. 
+
+I should have liked to produce a good book. This has not come 
+about, but the time is past in which I could improve it. 
+ “Cum ipsi (majores homines) appellabant rem aliquam, et cum 
+secundum earn vocem corpus ad aliquid movebant, videbam, et 
+tenebam hoc ab eis vocari rem illam, quod sonabant, cum earn vellent 
+ostendere. Hoc autem eos velle ex motu corporis aperiebatur: tamquam 
+verbis naturalibus omnium gentium, quae hunt vultu et nutu oculorum, 
+ceterorumque membrorum actu, et sonitu vocis indicante affectionem 
+animi in petendis, habendis, rejiciendis, fugiendisve rebus. Ita verba in 
+variis sententiis locis suis posita, et crebro audita, quarum rerum signa 
+essent, paulatim colligebam, measque jam voluntates, edomito in eis 
+signis ore, per haec enuntiabam.” (Augustine, Confessions , I. 8.) 1 
+These words, it seems to me, give us a particular picture of the 
+essence of human language. It is this: the individual words in language 
+
+name objects—sentences are combinations of such names.-In this 
+
+picture of language we find the roots of the following idea: Every word 
+has a meaning. This meaning is correlated with the word. It is the 
+object for which the word stands. 
+
+Augustine does not speak of there being any difference between 
+kinds of word. If you describe the learning of language in this way 
+you are, I believe, thinking primarily of nouns like “table”, “chair”, 
+“bread”, and of people’s names, and only secondarily of the names of 
+certain actions and properties; and of the remaining kinds of word as 
+something that will take care of itself. 
+
+Now think of the following use of language: I send someone shop- 
+ping. I give him a slip marked “five red apples”. He takes the slip to 
+
+
+1 “When they (my elders) named some object, and accordingly 
+moved towards something, I saw this and I grasped that the thing was 
+called by the sound they uttered when they meant to point it out. 
+Their intention was shewn by their bodily movements, as it were the 
+natural language of all peoples: the expression of the face, the play of 
+the eyes, the movement of other parts of the body, and the tone of voice 
+which expresses our state of mind in seeking, having, rejecting, or 
+avoiding something. Thus, as I heard words repeatedly used in their 
+proper places in various sentences, I gradually learnt to understand 
+what objects they signified; and after I had trained my mouth to form 
+these signs, I used them to express my own desires.” 
+3 « 
+
+the shopkeeper, who opens the drawer marked “apples”; then he looks 
+up the word “red” in a table and finds a colour sample opposite it; 
+then he says the series of cardinal numbers—I assume that he knows 
+them by heart—up to the word “five” and for each number he takes an 
+
+apple of the same colour as the sample out of the drawer.-It is in 
+
+this and similar ways that one operates with words.-“But how does 
+
+he know where and how he is to look up the word ‘red* and what he is 
+
+to do with the word ‘five’?”--Well, I assume that he acts as I have 
+
+described. Explanations come to an end somewhere.—But what is the 
+meaning of the word “five”?—No such thing was in question here, 
+only how the word “fi ve” is used. 
+
+z. That philosophical concept of meaning has its place in a 
+primitive idea of the way language functions. But one can also say 
+that it is the idea of a language more primitive than ours. 
+
+Let us imagine a language for which the description given by 
+Augustine is right. The language is meant to serve for communication 
+between a builder A and an assistant B. A is building with building- 
+stones: there are blocks, pillars, slabs and beams. B has to pass the 
+stones, and that in the order in which A needs them. For this 
+purpose they use a language consisting of the words “block”, “pillar”, 
+“slab”, “beam”. A calls them out;—B brings the stone which he has 
+
+learnt to bring at such-and-such a call.-Conceive this as a complete 
+
+primitive language. 
+
+3. Augustine, we might say, does describe a system of communica¬ 
+tion; only not everything that we call language is this system. And one 
+has to say this in many cases where the question arises “Is this an 
+appropriate description or not?” The answer is: “Yes, it is appropriate, 
+but only for this narrowly circumscribed region, not for the whole of 
+what you were claiming to describe.” 
+
+It is as if someone were to say: “A game consists in moving objects 
+about on a surface according to certain rules . . .”—and we replied: 
+You seem to be thinking of board games, but there are others. You 
+can make your definition correct by expressly restricting it to those 
+games. 
+
+4Imagine a script in which the letters were used to stand for 
+sounds, and also as* signs of emphasis and punctuation. (A script can 
+be conceived as a language for describing sound-patterns.) Now 
+imagine someone interpreting that script as if there were simply a 
+correspondence of letters to sounds and as if the letters had not also 
+completely different functions. Augustine’s conception of language is 
+like such an over-simple conception of the script. 
+
+5. If we look at the example in §1, we may perhaps get an inkling 
+how much this general notion of the meaning of a word surrounds the 
+working of language with a haze which makes clear vision impossible. 
+It disperses the fog to study the phenomena of language in primitive 
+kinds of application in which one can command a clear view of the aim 
+and functioning of the words. 
+
+A child uses such primitive forms of language when it learns to talk. 
+Here the te achin g of language is not explanation, but training. 
+
+6. We could imagine that the language of §2 was the whole language 
+of A and B; even the whole language of a tribe. The children are 
+brought up to perform these actions, to use these words as they do so, and 
+to react in this way to the words of others. 
+
+An important part of the training will consist in the teacher’s pointing 
+to the objects, directing the child’s attention to them, and at die same 
+time uttering a word; for instance, the word “slab” as he points to that 
+shape. (I do not want to call this “ostensive definition”, because the 
+child cannot as yet ask what the name is. I will call it “ostensive 
+
+teaching of words”.-1 say that it will form an important part of the 
+
+training, because it is so with human beings; not because it could not 
+be imagined otherwise.) This ostensive teaching of word s can be said 
+to establish an association between the word and the thing . But what 
+does this mean? Well, it may mean various things; but one very likely 
+thinks first of all that a picture of the object comes before the child’s 
+mind when it hears the word. But now, if this does happen—is it the 
+purpose of the word?—Yes, it may be the purpose.—I can imagine 
+such a use of words (of series of sounds). (Uttering a word is like 
+striking a note on the keyboard of the imagination.) But in the 
+language of §2 it is not the purpose of the words to evoke images. 
+(It may, of course, be discovered that that helps to attain the actual 
+purpose.) 
+
+But if the ostensive teaching has this effect,—am I to say that it effects 
+an understanding of the word? Don’t you understand the call “Slab!” 
+if you act upon it in such-and-such a way?—Doubtless the ostensive 
+teaching helped to bring this about; but only together with a particular 5* 
+
+training. With different training the same ostensive teaching of these 
+words would have effected a quite different understanding. 
+
+“I set the brake up by connecting up rod and lever.”—Yes, given 
+the whole of the rest of the mechanism. Only in conjunction with that 
+is it a brake-lever, and separated from its support it is not even a 
+lever; it may be anything, or nothing. 
+
+7. In the practice of the use of language (z) one party calls out the 
+
+words, the other acts on them. In instruction in the language the 
+following process will occur: the learner names the objects; that is, 
+he utters the word when the teacher points to the stone.—And there 
+will be this still simpler exercise: the pupil repeats the words after the 
+teacher-both of these being processes resembling language. 
+
+We can also think of the whole process of using words in (2) as 
+one of those games by means of which children learn their native 
+language. I will call these games “language-games” and will some¬ 
+times speak of a primitive language as a language-game. 
+
+And the processes of namin g the stones and of repeating words after 
+someone might also be called language-games. Think of much of the 
+use of words in games like ring-a-ring-a-roses. 
+
+I shall also call the whole, consisting of language and the actions into 
+which it is woven, the “language-game”. 
+
+8. Let us now look at an expansion of language (z). Besides the 
+four words “block”, “pillar”, etc., let it contain a series of words used 
+as the shopkeeper in (1) used the numerals (it can be the series of letters 
+of the alphabet); further, let there be two words, which may as well be 
+“there” and “this” (because this roughly indicates their purpose), 
+that are used in connexion with a pointing gesture; and finally a 
+number of colour samples. A gives an order like: “d—slab—there”. 
+At the same time he shews the assistant a colour sample, and when he 
+says “there” he points to a place on the building site. From the stock 
+of slabs B takes one for each letter of the alphabet up to “d”, of the 
+same colour as the sample, and brings them to the place indicated by 
+A.—On other occasions A gives the order “this—there”. At “this” 
+he points to a building stone. And so on. 
+
+9. When a child learns this language, it has to learn the series of 
+‘numerals’ a, b, c,. . . by heart. And it has to learn their use.—Will 
+this training include ostensive teaching of the words?—Well, people will, for example, point to slabs and count: “a, b, c slabs”.— 
+Some thin g more like the ostensive teaching of the words “block”, 
+“pillar”, etc. would be the ostensive teaching of numerals that serve 
+not to count but to refer to groups of objects that can be taken in at 
+a glance. Children do learn the use of the first five or six cardinal 
+numerals in this way. 
+
+Are “there” and “this” also taught ostensively?—Imagine how one 
+might perhaps teach their use. One will point to places and things— 
+but in this case the pointing occurs in the use of the words too and not 
+merely in learning the use.— 
+
+10. Now what do the words of this language signify ?—What is 
+supposed to shew what they signify, if not the kind of use they have? 
+And we have already described that. So we are asking for the expression 
+“This word signifies this ” to be made a part of the description. In 
+other words the description ought to take the form: “The word .... 
+signifies . . . .”. 
+
+Of course, one can reduce the description of the use of the word 
+“slab” to the statement that this word signifies this object. This will 
+be done when, for example, it is merely a matter of removing the 
+mistaken idea that the word “slab” refers to the shape of building-stone 
+that we in fact call a “block”—but the kind of 'referring this is, that is to 
+say the use of these words for the rest, is already known. 
+
+Equally one can say that the signs “a”, “b”, etc. signify numbers; 
+when for example this removes the mistaken idea that “a”, “b”, “c”, 
+play the part actually played in language by “block”, “slab”, “pillar”. 
+And one can also say that “c” means this number and not that one; 
+when for example this serves to explain that the letters are to be used 
+in the order a, b, c, d, etc. and not in the order a, b, d, c. 
+
+But assimilating the descriptions of the uses of words in this way 
+cannot make the uses themselves any more like one another. For, as we 
+see, they are absolutely unlike. 
+
+11. Think of the tools in a tool-box: there is a hammer, pliers, a 
+saw, a screw-driver, a rule, a glue-pot, glue, nails and screws.—The 
+functions of words are as diverse as the functions of these objects. 
+(And in both cases there are similarities.) 
+
+Of course, what confuses us is the uniform appearance of words when 
+we hear them spoken or meet them in script and print. For their 
+application is not presented to us so clearly. Especially when we are 
+doing philosophy! 
+12. It is like looking into the cabin of a locomotive. We see handles 
+all looking more or less alike. (Naturally, since they are all supposed to 
+be handled.) But one is the handle of a crank which can be moved 
+continuously (it regulates the opening of a valve); another is the 
+handle of a switch, which has only two effective positions, it is either off 
+or on; a third is the handle of a brake-lever, the harder one pulls on it, 
+the harder it brakes; a fourth, the handle of a pump: it has an effect only 
+so long as it is moved to and fro. 
+
+13. When we say: “Every word in language signifies something” 
+we have so far said nothing whatever; unless we have explained 
+exactly what distinction we wish to make. (It might be, of course, that 
+we wanted to distinguish the words of language (8) from words ‘with¬ 
+out meaning* such as occur in Lewis Carroll’s poems, or words like 
+“Lilliburlero” in songs.) 
+
+14. Imagine someone’s saying: "All tools serve to modify some¬ 
+
+thing. Thus the hammer modifies the position of the nail, the saw the 
+shape of the board, and so on.”—And what is modified by the rule, the 
+glue-pot, the nails?—“Our knowledge of a thing’s length, the tempera¬ 
+ture of the glue, and the solidity of the box.”-Would anything be 
+
+gained by this assimilation of expressions?— 
+
+15. The word “to signify” is perhaps used in the most straight¬ 
+forward way when the object signified is marked with the sign. Suppose 
+that the tools A uses in building bear certain marks. When A shews his 
+assistant such a mark, he brings the tool that has that mark on it. 
+
+It is in this and more or less similar ways that a name means and is 
+given to a thing.—It will often prove useful in philosophy to say to 
+ourselves: naming something js ji ke at taching a label to a thing. 
+
+16. What about the colour samples that A shews to JB: are they 
+part of the language ? Well, it is as you please. They do not belong 
+among the words; yet when I say to someone: “Pronounce the word 
+‘the’ ”, you will count the second “the” as part of the sentence. Yet it 
+has a role just like that of a colour-sample in language-game (8); that is, 
+it is a sample of what the other is meant to say. 
+
+It is most natural, and causes least confusion, to reckon the samples 
+among the instruments of the language. 17. It will be possible to say: In language (8) we have different kinds 
+of word. For the functions of the word “slab” and the word “block” 
+are more alike than those of “slab” and “d”. But how we group 
+words into kinds will depend on the aim of the classification,—and on 
+our own inclination. 
+
+Think of the different points of view from which one can classify 
+tools or chess-men. 
+
+18. Do not be troubled by the fact that languages (2) and (8) 
+consist only of orders. If you want to say that this shews them to be 
+incomplete, ask yourself whether our language is complete;—whether 
+it was so before the symbolism of chemistry and the notation of the 
+infini tes imal calculus were incorporated in it; for these are, so to speak, 
+suburbs of our language. (And how many houses or streets does it 
+
+I take before a town begins to be a town?) Our la nguage can be seen 
+as an ancient city: a maze of little streets and squares, of did and new 
+I houses, and of hou ses with additions from various periods; and this 
+1 surrounded by a multitude of new boroughs with straight regular 
+i streets and uniform houses. 
+
+19. It is easy to imagine a language consisting only of orders and 
+
+'l reports in battle.—Or a language consisting only of questions and 
+! expressions for answering yes and no. And innumerable others.- 
+
+And to imagine a language means to imagine a f orm of lif e. 
+
+But what about this: is the call “Slab l” in example (2) a sentence or a 
+word?—If a word, surely it has not the same meaning as the like- 
+sounding word of our ordinary language, for in §2 it is a call. But if a 
+sentence, it is surely not the elliptical sentence: “Slabl” of our 
+
+language.-As far as the first question goes you can call “Slab!” a 
+
+word and also a sentence; perhaps it could be appropriately called a 
+‘degenerate sentence’ (as one speaks of a degenerate hyperbola); 
+in fact it is our ‘elliptical’ sentence.—But that is surely only a shortened 
+form of the sentence “Bring me a slab”, and there is no such sentence in 
+example (2).—But why should I not on the contrary have called the 
+sentence “Bring me a slab” a lengthening of the sentence “Slab!”?— 
+Because if you shout “Slab!” you really mean: “Bring me a slab”.— 
+But how do you do this: how do you mean that while you say “Slabl”? 
+Do you say the unshortened sentence to yourself? And why should I 
+translate the call “Slab!” into a different expression in order to say 
+what someone means by it? And if they mean the samp thing—why 
+should I not say: “When he says ‘Slab!’ hemeans ‘Slab!”’? Again, if you 
+can mean “Bring me the slab”, why should you not be able to mp fl n 
+“Slab 1 ”?—-But when I call “Slab I”, then what I want is, that he should 
+
+bring me a slab\ -Certainly, but does ‘wanting this’ consist in thinking 
+
+in some form or other a different sentence from the one you utter?— 
+
+20. But now it looks as if when someone says “Bring me a slab” he 
+could mean this expression as one long word corresponding to the single 
+
+word “Slabl”-Then can one mean it sometimes as one word and 
+
+sometimes as four? And how does one usually mean it?-1 think 
+
+we shall be inclined to say: we mean the sentence as four words when we 
+use it in contrast with other sentences such as “Hand me a slab”, 
+“Bring him a slab”, “Bring two slabs”, etc.; that is, in contrast with 
+sentences containing the separate words of our command in other 
+combinations.-—But what does using one sentence in contrast with 
+others consist in? Do the others, perhaps, hover before one’s mind? 
+All of them? And while one is saying the one sentence, or before, or 
+afterwards?—No. Even if such an explanation rather tempts us/we 
+need only think for a moment of what actually happens in order to see 
+that we are going astray here. We say that we use the command in 
+contrast with other sentences because our language contains the pos¬ 
+sibility of those other sentences. Someone who did not understand our 
+language, a foreigner, who had fairly often heard someone giving the 
+order: Bring me a slabl”, might believe that this whole series of 
+sounds was one word corresponding perhaps to the word for 
+building-stone ’ in his language. If he himself had then given this 
+order perhaps he would have pronounced it differently, and we should 
+
+say: he pronounces it so oddly because he takes it for a single word._ 
+
+But then, is there not also something, different going on in him when he 
+pronounces it,—something corresponding to the fact that he con¬ 
+ceives the sentence as a single word?-Either the same thing may go 
+
+on in him, or something different. For what goes on in you when you 
+give such an order? Are you conscious of its consisting of four words 
+while you are uttering it? Of course you have a mastery of this language 
+—which contains those other sentences as well—but is this having a 
+mastery something that happens while you are uttering the sentence?— 
+And I have admitted that the foreigner will probably pronounce a 
+sentence differently if he conceives it differently; but what we call 
+his wrong conception need not lie in anything that acco mpanies the 
+utterance of the c omman d. The sentence is ‘elliptical’, not because it leaves out something that 
+we think when we utter it, but because it is shortened—in comparison 
+with a particular paradigm of our grammar.—Of course one might 
+object here: “You grant that the shortened and the unshortened 
+sentence have the same sense.—What is this sense, then? Isn’t there a 
+verbal expression for this sense?”-But doesn’t the fact that sen¬ 
+
+tences have the same sense consist in their having the same use }—(In 
+Russian one says “stone red” instead of “the stone is red”; do they feel 
+the copula to be missing in the sense, or attach it in thought}) 
+
+21. Imagine a language-game in which A asks and B reports the 
+number of slabs or blocks in a pile, or the colours and shapes of the 
+building-stones that are stacked in such-and-such a place.—Such a 
+report might run: “Five slabs”. Now what is the difference between 
+the report or statement “Five slabs” and the order “Five slabs!”?— 
+Well, it is the part which uttering these words plays in the language- 
+game. No doubt the tone of voice and the look with which they are 
+uttered, and much else besides, will also be different. But we could 
+also imagine the tone’s being the same—for an order and a report 
+can be spoken in a variety of tones of voice and with various expressions 
+of face—the difference being only in the application. (Of course, we 
+might use the words “statement” and “command” to stand for 
+grammatical forms of sentence and intonations; we do in fact call 
+“Isn’t the weather glorious to-day?” a question, although it is used as a 
+statement.) We could imagine a language in which all statements had 
+the form and tone of rhetorical questions; or every command the form 
+of the question “Would you like to . . .?”. Perhaps it will then be said: 
+“What he says has the form of a question but is really a command”,— 
+that is, has die function of a command in the technique of using the 
+language. (Similarly one says “You will do this” not as a prophecy 
+but as a command. What mak^s it the one or the other?) 
+
+22. Frege’s idea that every assertion contains an assumption, which 
+is the thing that is asserted, really rests on the possibility found in our 
+language of writing every statement in the form: “It is asserted that 
+such-and-such is the case.”—But “that such-and-such is the case” is 
+not a sentence in our language—so far it is not a move in the language- 
+
+game. And if I write, not “It is asserted that-”, but “It is asserted: 
+
+such-and-such is the case”, the words “It is asserted” simply become 
+superfluous. 
+
+We might very well also write every statement in the form of a question followed by a “Yes”; for instance: “Is it raining? Yes!” 
+Would this shew that every statement contained a question? 
+
+Of course we have the right to use an assertion sign in contrast with 
+a question-mark, for example, or if we want to distinguish an assertion 
+from a fiction or a supposition. If is only a mistake if one thinks that 
+the assertion consists of two actions, entertaining and asserting 
+(assigning the truth-value, or something of the kind), and that in 
+performing these actions we follow the propositional sign roughly as 
+we sing from the musical score. Reading the written sentence loud or 
+soft is indeed comparable with singing from a musical score, but 
+c meaning 9 (thinking) the sentence that is read is not. 
+
+Frege’s assertion sign marks the beginning of the sentence . Thus its 
+function is like that of the full-stop. It distinguishes the whole period 
+v from a clause within the period. If I hear someone say “it’s raining” but 
+do not know whether I have heard the beginning and end of the 
+period, so far this sentence does not serve to tell me anything. 
+
+23. But how many kinds of sentence are there? Say assertion, 
+question, and command?—There are countless kinds: countless different 
+kinds of use of what we call “symbols”, “words”, “sentences”. And 
+this multiplicity is not something fixed, given once for all; but new 
+types of language, new language-games, as we may say, come into 
+existence, and others become obsolete and get forgotten. (We can get a 
+rough picture of this from the changes in mathematics.) 
+
+Here the term “language-^/**” is meant to bring into prominence 
+the fact that the speaking of language is part of an activity, or of a form 
+of life. 
+
+Review the multiplicity of language-games in the following 
+examples, and in others: 
+
+Giving orders, and obeying them— 
+
+Describing the appearance of an object, or giving its measurements— 
+Constructing an object from a description (a drawing)— 
+Reporting an event— 
+
+Speculating about an event— 
+
+Imagine a picture representing a boxer in a particular stance. Now, 
+this picture can be used to tell someone how he should stand, should 
+hold himself; or how he should not hold himself; or how a particular 
+man did stand in such-and-such a place; and so on. One might (using 
+the language of chemistry) call this picture a proposition-radical. 
+This will be how Frege thought of the “assumption”. Forming and testing a hypothesis— 
+
+Presenting the results of an experiment in tables and diagrams— 
+Making up a story; and reading it— 
+
+Play-acting— 
+
+Singing catches— 
+
+Guessing riddles— 
+
+Making a joke; telling it— 
+
+Solving a problem in practical arithmetic— 
+
+Translating from one language into another— 
+
+Asking, thanking, cursing, greeting, praying. 
+
+—It is interesting to compare the multiplicity of the tools in language 
+and of the ways they are used, the multiplicity of kinds of word and 
+sentence, with what logicians have said about the structure of language. 
+(Including the author of the Tractatus Logico-Philosophicus .) 
+
+24. If you do not keep the multiplicity of language-games in view 
+yon will perhaps be inclined to ask questions like: “What is a question?” 
+—Is it the statement that I do not know such-and-such, or the state¬ 
+ment that I wish the other person would tell me . . . .? Or is it the 
+description of my mental state of uncertainty?—And is the cry “Help I” 
+such a description? 
+
+Think how many different kinds of thing are called “description”: 
+description of a body’s position bymeans of its co-ordinates; description 
+of a facial expression; description of a sensation of touch; of a mood. 
+
+Of course it is possible to substitute the form of statement or 
+description for the usual form of question: “I want to know whether 
+. . . or “I am in doubt whether . . . .”—but this does not bring the 
+different language-games any closer together. 
+
+The significance of such possibilities of transformation, for example 
+of turning all statements into sentences beginning “I think” or “I 
+believe” (and thus, as it were, into descriptions of my inner life) will 
+become clearer in another place. (Solipsism.) 
+
+25. It is sometimes said that animals do not talk because they lack 
+the mental capacity. And this means: “they do not think, and that is 
+why they do not talk.” But—they simply do not talk. Or to put it 
+better: they do not use language—if we except the most primitive forms 
+of language.—Commanding, questioning, recounting, chatting, are as 
+much a part of our natural history as walking, eating, drinking, playing. 
+
+26. One thinks that learning language consists in giving names to 
+objects. Viz, to human beings, to shapes, to colours, to. pains, to 
+moods, to numbers, etc.. To repeat—naming is something like 
+attaching a label to a thing. One can say that this is preparatory to the 
+use of a word. But what is it a preparation fori 
+
+27. "We name things and then we can talk about them: can refer 
+to them in talk.”—As if what we did next were given with the mere 
+act of naming. As if there were only one thing called "talking about a 
+thing”. Whereas in fact we do the most various things with our 
+sentences. Think of exclamations alone, with their completely different 
+functions. 
+
+Water! 
+
+Away! 
+
+Ow! 
+
+Help! 
+
+Fine! 
+
+No! 
+
+Are you inclined still to call these words "names of objects”? 
+
+In languages (2) and (8) there was no such thing as asking 
+something’s name. This, with its correlate, ostensive definition, is, we 
+might say, a language-game on its own. That is really to say: we are 
+brought up, trained, to ask: "What is that called?”—upon which the 
+name is given. And there is also a language-game of inventing a name 
+for something, and hence of saying, "This is . . . .” and then using the 
+new name. (Thus, for example, children give names to their dolls 
+and then talk about them and to them. Think in this connexion how 
+singular is the use of a person’s name to call him!) 
+
+. 28. Now one can ostensively define a proper name, the name of a 
+colour, the name of a material, a numeral, the name of a point of the 
+compass and so on. The definition of the number two, "That is called 
+‘two’ ”—pointing to two nuts—is perfectly exact.—But how can two be 
+defined like that? The person one gives the definition to doesn’t know 
+what one wants to call "two”; he will suppose that "two” is the name 
+
+given to this group of nuts!-He may suppose this; but perhaps he 
+
+does not. He might make the opposite mistake; when I want to assign 
+a name to this group of nuts, he might understand it as a numeral. And 
+he might equally well take the name of a person, of which I give an 
+ostensive definition, as that of a colour, of a race, or even of a point 
+of the compass. That is to say: an o stensive definition can be variously 
+inter preted in every case. 
+
+29. Perhaps you say: two can only be ostensively defined in this 
+way: “This number is called ‘two* For the word “number” here 
+shews what place in language, in grammar,' we assign to the word. 
+But this means that the word “number” must be explained before the 
+ostensive definition can be understood.—The word “number” in the 
+definition does indeed shew this place; does shew the post at which we 
+station the word. And we can prevent misunderstandings by saying: 
+“This colour is called so-and-so”, “This length is called so-and-so”, 
+and so on. That is to say: misunderstandings are sometimes averted in 
+this way. But is there only one way of taking the word “colour” or 
+“length”?—Well, they just need defining.—Defining, then, by means 
+of other words! And what about the last definition in this chain? 
+(Do not say: “There isn’t a ‘last’ definition”. That is just as if you chose 
+to say: “There isn’t a last house in this road; one can always build an 
+additional one”.) 
+
+Whether the word “number” is necessary in the ostensive definition 
+depends on whether without it the other person takes the definition 
+otherwise than I wish. And that will depend on the circumstances 
+under which it is given, and on the person I give it to. 
+
+And how he ‘takes’ the definition is seen in the use that he makes of 
+the word defined. 30. So one might say: the ostensive definition explains the use— 
+the meaning—of the word when the overall role of the word in 
+language is clear. Thus if I know that someone means to explain a 
+colour-word to me the ostensive definition “That is called ‘sepia’ ” 
+will help me to understand the word.—And you can say this, so long as 
+
+Could one define the word “red” by pointing to something that was 
+not red?. That would be as if one were supposed to explain the word 
+“modest” to someone whose English was weak, and one pointed to 
+an arrogant man and said “That man is not modest”. That 
+it is ambiguous is no argument against such a method of definition. 
+Any definition can be misunderstood. 
+
+But it might well be asked: are we still to call this “definition”?— 
+For, of course, even if it has the same practical consequences, the same 
+effect on the learner, it plays a different part in the calculus from what we 
+ordinarily call “ostensive definition” of the word “red”. you do not forget that all sorts of problems attach to the words “to 
+know” or “to be dear”. 
+
+One has already to know (or be able to do) something in order to be 
+capable of asking a thing’s name. But what does one have to know? 
+
+31. When one shews someone the king in chess and says: “This is 
+the king”, this does not tell him the use of this piece—unless he already 
+knows the rules of the game up to this last point: the shape of the king. 
+You could imagine his having learnt the rules of the game without ever 
+having been shewn an actual piece. The shape of the chessman cor¬ 
+responds here to the sound or shape of a word. 
+
+One can also imagine someone’s having learnt the game without 
+ever learning or formulating rules. He might have learnt quite simple 
+board-games first, by watching, and have progressed to more and 
+more complicated ones. He too might be given the explanation “This 
+is die king”,—if, for instance, he were being shewn chessmen of a shape 
+he was not used to. This explanation again only tells him the use 
+of the piece because, as we might say, the place for it was already 
+prepared. Or even: we shall only say that it tells him the use, if 
+the place is already prepared. And in this case it is so, not because the 
+person to whom we give the explanation already knows rules, but 
+because in another sense he is already master of a game. 
+
+Consider this farther case: I am explaining chess to someone; and I 
+begin by pointing to a chessman and saying: “This is the king; it 
+canjtnove like this, .... and so on.”—In this case we shall say: the 
+words “This is the king” (or “This is called the ‘king* ”) are a definition 
+only if the learner already ‘knows what a piece in a game is\ That is, 
+if he has already played other games, or has watched other people 
+playing ‘and understood *—and similar things . Further, only under these 
+conditions will he be able to ask relevantly in the course of learning the 
+game: “What do you call this?”—that is, this piece in a game. 
+
+We may say: only someone who already knows how to do something 
+with it can significantly ask a name. 
+
+And we can imagine the person who is asked replying: “Settle the 
+name yourself”—and now die one who asked would have to manage 
+everything for himself. 
+
+52. Someone coming into a strange country will sometimes learn 
+the language of the inhabitants from ostensive definitions that they 
+give him; and he will often have to guess the meaning of these 
+definitions; and will guess sometimes right, sometimes wrong. 
+
+And now, I think, we can say: Augustine describes the learning of human language as if the child came into a strange country and 
+did not understand the language of the country; that is, as if it already 
+had a language, only not this one. Or again: as if the child could already 
+tbinky only not yet speak. And “think” would here mean something 
+like “talk to itself”. 
+
+33. Suppose, however, someone were to object: “It is not true 
+that you must already be master of a language in order to understand 
+an ostensive definition: all you need—of course!—is to know or 
+guess what the person giving the explanation is pointing to. That is, 
+whether for example to the shape of the object, or to its colour, or to its 
+
+number, and so on.”-And what does ‘pointing to the shape’, 
+
+‘pointing to the colour’ consist in? Point to a piece of paper.—And now 
+point to its shape—now to its colour—now to its number (that sounds 
+queer).—How did you do it?—You will say that you ‘meant’ a different 
+thing each time you pointed. And if I ask how that is done, you will 
+say you concentrated your attention on the colour, the shape, etc. 
+But I ask again: how is that done? 
+
+Suppose someone points to a vase and says “Look at that marvellous 
+blue—the shape isn’t the point.”—Or: “Look at the marvellous shape— 
+the colour doesn’t matter.” Without doubt you will do something 
+different when you act upon these two invitations. But do you always 
+do the same thing when you direct your attention to the colour? 
+Imagine various different cases. To indicate a few: 
+
+“Is this blue the same as the blue over there? Do you see any 
+difference?”— 
+
+You are mixing paint and you say “It’s hard to get the blue of this 
+sky.” 
+
+“It’s turning fine, you can already see blue sky again.” 
+
+“Look what different effects these two blues have.” 
+
+“Do you see the blue book over there? Bring it here.” 
+
+“This blue signal-light means . . . .” 
+
+“What’s this blue called?—Is it ‘indigo’?” 
+
+You sometimes attend to the colour by putting your hand up to keep 
+the outline from view; or by not looking at the outline of die thing; 
+sometimes by staring at the object and trying to remember where you 
+saw that colour before. 
+
+You attend to the shape, sometimes by tracing it, sometimes by 
+screwing up your eyes so as not to see the colour clearly, and in many 
+other ways. I want to say: This is the sort of thing that happens while 
+one ‘directs one’s attention to this or that’. But it isn’t these things by 
+themselves that make us say someone is attending to the shape, the 
+colour, and so on. Just as a move in chess doesn't consist simply in 
+moving a piece in such-and-such a way on the board—nor yet in one's 
+thoughts and feelings as one makes the move: but in the circumstances 
+that we call “playing a game of chess”, “solving a chess problem”, 
+and so on. 
+
+34. But suppose someone said: “I always do the same thing when 
+I attend to the shape: my eye follows the outline and I feel . . . 
+And suppose this person to give someone else the ostensive definition 
+“That is called a ‘circle’ ”, pointing to a circular object and having all 
+
+these experiences-cannot his hearer still interpret the definition 
+
+differently, even though he sees the other’s eyes following the outline, 
+and even though he feels what the other feels? That is to say: this 
+‘interpretation’ may also consist in how he now makes use of the 
+word; in what he points to, for example, when told: “Point to a 
+circle”.—For neither the expression “to intend the definition in such- 
+and-such a way” nor the expression “to interpret the definition in 
+such-and-such a way” stands for a process which accompanies the 
+giving and hearing of the definition. 
+
+35. There are, of course, what can be called “characteristic ex¬ 
+periences” of pointing to (e.g.) the shape. For example, following 
+the outline with one’s finger or with one’s eyes as one points.—But this 
+does not happen in all cases in which I ‘mean the shape’, and no more 
+does any other one characteristic process occur in all these cases.— 
+Besides, even if something of the sort did recur in all cases, it would 
+still depend on the circumstances—that is, on what happened before 
+and after the pointing—whether we should say “He pointed to the 
+shape and not to the colour”. 
+
+For the words “to point to the shape”, “to mean the shape”, and 
+so on, are not used in the same way as these : “to point to this book 
+(not to that one), “to point to the chair, not to the table”, and so on.— 
+Only think how differently we learn the use of the words “to point 
+to this thing”, “to point to that thing”, and on the other hand “to 
+point to the colour, not the shape”, “to mean the colour”, and so on. 
+
+To repeat: in certain cases, especially when one points ‘to the shape’ 
+or ‘to the number’ there are characteristic experiences and ways of 
+pointing—‘characteristic’ because they recur often (not always) when 
+shape or number are ‘meant’. But do you also know of an experience 
+characteristic of pointing to a piece in a game as a piece in a game ? 
+1 The world is everything that is the case.* 
+
+^i.i The world is the totality of facts, not of 
+
+things. 
+
+1. 11 The world is determined by the facts, and by 
+these being all the facts. 
+
+1. 12 For the totality of facts determines both what is 
+the case, and also all that is not the case. 
+
+1. 13 The facts in logical space are the world. 
+1.2 The world divides into facts. 
+
+1. 21 Any one can either be the case or not be the 
+
+case, and everything else remain the same, 
+
+2 What is the case, the fact, is the existence of 
+atomic facts. 
+
+2.01 An atomic fact is a combination of objects 
+
+(entities, things). 
+
+2. oil It is essential to a thing that it can be a con- 
+
+stituent part of an atomic fact. 
+
+2.012 In logic nothing is accidental : if a thing can 
+
+occur in an atomic fact the possibility of that 
+atomic fact must already be prejudged in the 
+thing. 
+
+2.0121 It would, so to speak, appear as an accident, when 
+to a thing that could exist alone on its own account, 
+subsequently a state of affairs could be made to fit. 
+If things can occur in atomic facts, this possi- 
+bility must already lie in them. 
+
+(A logical entity cannot be merely possible. 
+Logic treats of every possibility, and all possi- 
+bilities are its facts.) 
+
+* The decimal figures as numbers of the separate propositions indicate the logical 
+importance of the propositions, the emphasis laid upon them in my exposition. 
+The propositions «. i, «.2, n.3, etc., are comments on proposition No. n ; the pro- 
+positions n.mi^n.rmy etc. , are comments on the proposition No. n.m ; and so on, Just as we cannot think of spatial objects at 
+all apart from space, or temporal objects apart 
+from time, so we cannot think of any object apart 
+from the possibility of its connexion with other 
+things. 
+
+If I can think of an object in the context of an 
+atomic fact, I cannot think of it apart from the 
+possibility of this context. 
+
+2.0122 The thing is independent, in so far as it can 
+occur in all possible circumstances, but this form 
+of independence is a form of connexion with the 
+atomic fact, a form of dependence. (It is im- 
+possible for words to occur in two different ways, 
+alone and in the proposition.) 
+
+2.0123 If I know an object, then I also know all the 
+possibilities of its occurrence in atomic facts. 
+
+(Every such possibility must lie in the nature 
+of the object.) 
+
+A new possibility cannot subsequently be 
+found. 
+
+2.01231 In order to know an object, I must know not 
+its external but all its internal qualities. 
+
+2.0124 If all objects are given, then thereby are all 
+possible atomic facts also given. 
+
+2.013 Every thing is, as it were, in a space of possible 
+
+atomic facts. I can think of this space as empty, 
+but not of the thing without the space. 
+
+2.0131 A spatial object must lie in infinite space. 
+(A point in space is an argument place.) 
+
+A speck in a visual field need not be red, 
+but it must have a colour ; it has, so to speak, 
+a colour space round it. A tone must have a pitch, the object of the sense of touch a hardness, 
+
+etc. 
+2.014 Objects contain the possibility of all states of 
+
+affairs. 
+2.0141 The possibility of its occurrence in atomic facts 
+
+is the form of the object. 
+2.02 The object is simple. 
+
+2.0201 Every statement about complexes can be analysed 
+
+into a statement about their constituent parts, and 
+
+into those propositions which completely describe 
+
+the complexes. 
+
+2.021 Objects form the substance of the world. 
+Therefore they cannot be compound. 
+
+2.0211 If the world had no substance, then whether 
+a proposition had sense would depend on whether 
+another proposition was true. 
+
+2.0212 It would then be impossible to form a picture 
+of the world (true or false). 
+
+2.022 It is clear that however different from the real 
+one an imagined world may be, it must have some- 
+thing — a form — in common with the real world. 
+
+2.023 This fixed form consists of the objects. 
+
+2.0231 The substance of the world can only determine 
+a form and not any material properties. For these 
+are first presented by the propositions — first formed 
+by the configuration of the objects. 
+
+2.0232 Roughly speaking : objects are colourless. 
+
+2.0233 Two objects of the same logical form are — 
+apart from their external properties — only differen- 
+tiated from one another in that they are 
+different. 
+
+2.02331 Either a thing has properties which no other 
+has, and then one can distinguish it straight away 
+from the others by a description and refer to it ; 
+or, on the other hand, there are several things 
+which have the totality of their properties incommon, and then it is quite impossible to point 
+to any one of them. 
+
+For if a thing is not distinguished by anything, 
+I cannot distinguish it — for otherwise it would be 
+distinguished. 
+
+2.024 Substance is what exists independently of what 
+is the case. 
+
+2.025 It is form and content. 
+
+2.0251 Space, time and colour (colouredness) are forms 
+of objects. 
+
+2.026 Only if there are objects can there be a fixed 
+form of the world. 
+
+2.027 The fixed, the existent and the object are 
+one. 
+
+2.0271 The object is the fixed, the existent ; the con- 
+figuration is the changing, the variable. 
+
+2.0272 The configuration of the objects forms the 
+atomic fact. 
+
+2.03 In the atomic fact objects hang one in another, 
+like the links of a chain. 
+
+2.031 In the atomic fact the objects are combined in 
+a definite way. 
+
+2.032 The way in which objects hang together in 
+the atomic fact is the structure of the atomic 
+fact. 
+
+2.033 The form is the possibility of the structure. 
+
+2.034 The structure of the fact consists of the structures 
+of the atomic facts. 
+
+2.04 The totality of existent atomic facts is the 
+world. 
+
+2.05 The totality of existent atomic facts also deter- 
+mines which atomic facts do not exist. 
+
+2.06 The existence and non-existence of atomic facts 
+is the reality. 
+
+(The existence of atomic facts we also call 
+a positive fact, their non-existence a negative 
+fact.) 
+2.061 Atomic facts are independent of one another. 2.062 From the existence or non-existence of an 
+atomic fact we cannot infer the existence or non- 
+existence of another. 
+
+2.063 The total reality is the world. 
+
+2.1 We make to ourselves pictures of facts. 
+
+2.11 The picture presents the facts in logical space, 
+the existence and non - existence of atomic 
+facts. 
+
+2.12 The picture is a model of reality. 
+
+2.13 To the objects correspond in the picture the 
+elements of the picture. 
+
+2. 131 The elements of the picture stand, in the picture, 
+
+for the objects. 
+
+2.14 The picture consists in the fact that its elements 
+are combined with one another in a definite way. 
+
+2. 141 The picture is a fact. 
+
+2.15 That the elements of the picture are combined 
+with one another in a definite way, represents that 
+the things are so combined with one another. 
+
+This connexion of the elements of the picture is 
+called itsstructure,and the possibility of this structure 
+is called the form of representation of the picture. 
+2. 151 The form of representation is the possibility that 
+
+the things are combined with one another as are 
+the elements of the picture. 
+
+2.1511 Thus the picture is linked with reality ; it reaches 
+up to it. 
+
+2.1512 It is like a scale applied to reality. 
+
+2.15121 Only the outermost points of the dividing lines 
+touch the object to be measured. 
+
+2.1513 According to this view the representing relation 
+which makes it a picture, also belongs to the 
+picture. 
+
+2.1514 The representing relation consists of the co- 
+ordinations of the elements of the picture and the 
+things. 
+
+2.1515 These co-ordinations are as it were the feelers of its elements with which the picture touches 
+reality. 
+^ 2.16 In order to be a picture a fact must have some- 
+
+thing in common with what it pictures. 
+
+2. 161 In the picture and the pictured there must be 
+
+something identical in order that the one can be a 
+picture of the other at all. 
+
+2.17 What the picture must have in common with 
+
+reality in order to be able to represent it after its 
+manner — rightly or falsely — is its form of repre- 
+sentation. 
+
+2.171 The picture can represent every reality whose 
+form it has. 
+
+The spatial picture, everything spatial, the 
+coloured, everything coloured, etc. 
+
+2.172 The picture, however, cannot represent its form 
+of representation ; it shows it forth. 
+
+2.173 The picture represents its object from without 
+(its standpoint is its form of representation), there- 
+fore the picture represents its object rightly or 
+falsely. 
+
+2.174 But the picture cannot place itself outside of its 
+form of representation. 
+
+. 2.18 What every picture, of whatever form, must 
+
+have in common with reality in order to be able to 
+represent it at all — rightly or falsely — is the logical 
+form, that is, the form of reality. 
+
+^2.181 If the form of representation is the logical form, 
+
+then the picture is called a logical picture. 
+2.182 Every picture is also a logical picture. (On the 
+
+other hand, for example, not every picture is spatial.) 
+
+- 2.19 The logical picture can depict the world. 
+
+2.2 The picture has the logical form of representa- 
+
+tion in common with what it pictures. 
+
+^2.201 The picture depicts reality by representing a 
+
+possibility of the existence and non-existence of 
+atomic facts. All the same one can say: “I mean that this piece is called the ‘king’, 
+not this particular bit of wood I am pointing to”. (Recognizing, 
+wishing, remembering, etc. .) 
+
+36. And we do here what we do in a host of similar cases: because 
+we cannot specify any one bodily action which we call pointing to the 
+shape (as opposed, for example, to the colour), we say that a spiritual 
+[mental, intellectual] activity corresponds to these words. 
+
+Where our language suggests a body and there is none: there, 
+we should like to say, is a spirit. 
+
+37. What is the relation between name and thing named?—Well, 
+what is it? Look at language-game (2) or at another one: there you 
+can see the sort of thing this relation consists in. This relation may 
+also consist, among many other things, in the fact that hearing the 
+name calls before our mind the picture of what is named; and it also 
+consists, among other things, in the name’s being written on the thing 
+named or being pronounced when that thing is pointed at. 
+
+38. But what, for example, is the word “this” the name of in 
+language-game (8) or the word “that” in the ostensive definition 
+“that is called . . . .”?—If you do not want to produce confusion you 
+will do best not to call these words names at all.—Yet, strange to say, 
+the word “this” has been called the only genuine name; so that anything 
+else we call a name was one only in an inexact, approximate sense. 
+
+This queer conception springs from a tendency to sublime the logic 
+of our language—as one might put it. The proper answer to it is: we 
+call very different things “names”; the word “name” is used to 
+
+What is it to mean the words “That is blue” at one time as a statement 
+about the object one is pointing to—at another as an explanation of 
+the word “blue”? Well, in the second case one really means “That is 
+called ‘blue’ ”.—Then can one at one time mean the word “is” as “is 
+called” and the word “blue” as “ ‘blue’ ”, and another time mean “is” 
+really as “is”? 
+
+It is also possible for someone to get an explanation of the words 
+out of what was intended as a piece of information. [Marginal note: 
+Here lurks a crucial superstition.] 
+
+Can I say “bububu” and mean “If it doesn’t rain I shall go for a 
+walk”?—It is only in a language that I can mean something by some¬ 
+thing. This shews clearly that the grammar of “to mean” is not like 
+that of the expression “to imagine” and the like. 
+characterize many different kinds of use of a word, related to one 
+another in many different ways;—but the kind of use that “this” has 
+is not among them. 
+
+It is quite true that, in giving an ostensive definition for instance, 
+we often point to the object named and say the name. And similarly, 
+in giving an ostensive definition for instance, we say the word “this” 
+while pointing to a thing. And also the word “this” and a name 
+often occupy the same position in a sentence. But it is precisely 
+characteristic of a name that it is defined by means of the demonstra¬ 
+tive expression “That is N” (or “That is called ‘N’ ”). But do we also 
+give the definitions: “That is called ‘this’ ”, or “This is called ‘this’ ”? 
+
+This is connected with the conception of naming as, so to speak, 
+an occult process. Naming appears as a queer connexion of a word 
+with an object.—And you really get such a queer connexion when the 
+philosopher tries to bring out the relation between name and thing by 
+staring at an object in front of him and repeating a name or even the 
+word “this” innumerable times. For philosophical problems arise 
+when language goes on holid ay. And here we may indeed fancy naming 
+to be some remarkable act of mind, as it were a baptism of an object. 
+And we can also say the word “this” to the object, as it were 
+address the object as “this”—a queer use of this word, which doubtless 
+only occurs in doing philosophy. 
+
+39. But why does it occur to one to want to make precisely this 
+word into a name, when it evidently is not a name?—That is just the 
+reason. For one is tempted to make an objection against what is 
+ordinarily called a name. It can be put like this: a name ought really to 
+signify a simple . And for this one might perhaps give the following 
+reasons: The word “Excalibur”, say, is a proper name in the ordinary 
+sense. The sword Excalibur consists of parts combined in a particular 
+way. If they are combined differently Excalibur does not exist. But 
+it is clear that the sentence “Excalibur has a sharp blade” makes sense 
+whether Excalibur is still whole or is broken up. But if “Excalibur” is 
+the name of an object, this object no longer exists when Excalibur is 
+broken in pieces; and as no object would then correspond to the name 
+it would have no meaning. But then the sentence “Excalibur has a 
+sharp blade” would contain a word that had no meaning, and hence 
+the sentence would be nonsense. But it does make sense; so there 
+must always be something corresponding to the words of which it 
+consists. So the word “Excalibur” must disappear when the sense is 
+analysed and its place be taken by words which name simples. It will 
+be reasonable to call these words the real names. 
+
+40. Let us first discuss this point of the argument: that a word has 
+no meaning if nothing corresponds to it.—It is important to note 
+that the word “meaning” is being used illicitly if it is used to signify 
+the thing that ‘corresponds" to the word. That is to confound the 
+meaning of a name with the hearer of the name. When Mr. N. N. dies 
+one says that the bearer of the name dies, not that the meaning dies. 
+And it would be nonsensical to say that, for if the name ceased to 
+have meaning it would make no sense to say “Mr. N. N. is dead."" 
+
+41. In §15 we introduced proper names into language (8). Now 
+suppose that the tool with the name “N” is broken. Not knowing 
+this, A gives B the sign “N”. Has this sign meaning now or not?— 
+What is B to do*when he is given it?—We have not settled anything 
+about this. One might ask: what will he do? Well, perhaps he will 
+stand there at a loss, or shew A the pieces. Here one might say: “N” 
+has become meaningless; and this expression would mean that the 
+sign “N” no longer had a use in our language-game (unless we gave it a 
+new one). “N” might also become meaningless because, for whatever 
+reason, the tool was given another name and the sign “N” no longer 
+used in the language-game.—But we could also imagine a convention 
+whereby B has to shake his head in reply if A gives him the sign 
+belonging to a tool that is broken.—In this way the command “N” 
+might be said to be given a place in the language-game even when the 
+tool no longer exists, and the sign “N” to have meaning even when 
+its bearer ceases to exist. 
+
+42. But has for instance a name which has never been used for a 
+
+tool also got a meaning in that game?-Let us assume that “X” is 
+
+such a sign and that A gives this sign to B—well, even such signs could 
+be given a place in the language-game, and B might have, say, to 
+answer them too with a shake of the head. (One could imagine this 
+as a sort of joke between them.) 
+
+43. For a large class of cases—though not for all—in which we 
+employ the word “meaning” it can be defined thus: the meaning of a 
+word is its use in the language. And the meaning of a name is sometimes explained by pointing to its 
+bearer. 
+
+
+44. We said that the sentence “Excalibur has a sharp blade” made 
+sense even when Excalibur was broken in pieces. Now this is so 
+because in this language-game a name is also used in the absence of 
+its bearer. But we can imagine a language-game with names (that is, 
+with signs which we should certainly include among names) in which 
+they are used only in the presence of the bearer; and so could always be 
+replaced by a demonstrative pronoun and the gesture of pointing. 
+
+.45. The demonstrative “this” can never be without a bearer. It 
+might be said: “so long as there is a this, the word ‘this’-has a meaning 
+
+too, whether this is simple or complex.”-But that does not make 
+
+the word into a name. On the contrary: for a name is not used with, 
+but only explained by means of, the gesture of pointing. 
+
+46. What lies behind the idea that names really signify simples?— 
+
+Socrates says in the Theaetetus: “If I make no mistake, I have heard 
+
+some people say this: there is no definition of the primary elements— 
+so to speak—out of which we and everything else are composed; for 
+everything that exists 1 in its own right can only be named , no other 
+
+determination is possible, neither that it is nor that it is not .But 
+
+what exists 1 in its own right has to be.named without any other 
+
+determination. In consequence it is impossible to give an account of 
+any primary element; for it, nothing is possible but the bare name; 
+its name is all it has. But just as what consists of these primary elements 
+is itself complex, so the names of the elements become descriptive 
+language by being compounded together. For the essence of speech 
+is the composition of names.” 
+
+Both Russell's ‘individuals' and my ‘objects' (Tractates Logtco- 
+Philosophicus) were such primary elements. 
+
+47. But what are the simple constituent parts of which reality is 
+composed?—What are the simple constituent parts of a chair?—The 
+bits of wood of which it is made? Or the molecules, or the atoms?— 
+“Simple” means: not composite. And here the point is: in what sense 
+‘composite'? It makes no sense at all to speak absolutely of the ‘simple 
+parts of a chair'. Again: Does my visual image of this tree, of this chair, consist of 
+parts? And what are its simple component parts? Multi-colouredness 
+is one kind of complexity; another is, for example, that of a broken 
+outline composed of straight bits. And a curve can be said to be com¬ 
+posed of an ascending and a descending segment. 
+
+If I tell someone without any further explanation: “What I see before 
+me now is composite”, he will have the right to ask: “What do you 
+mean by ‘composite’? For there are all sorts of things that that can 
+meanl”—The question “Is what you see composite?” makes good 
+sense if it is already established what kind of complexity—that is, 
+which particular use of the word—is in question. If it had been laid 
+down that the visual image of a tree was to be called “composite” if 
+one saw not just a single trunk, but also branches, then the question 
+“Is the visual image of this tree simple or composite?”, and the 
+question “What are its simple component parts?”, would have a clear 
+sense—a clear use. And of course the answer to the second question 
+is not “The branches” (that would be an answer to the grammatical 
+question: “What are here called ‘simple component parts’?”) but rather 
+a description of the individual branches. 
+
+But isn’t a chessboard, for instance, obviously, and absolutely, 
+composite?—You are probably thinking of the composition out of 
+thirty-two white and thirty-two black squares. But could we not also 
+say, for instance, that it was composed of the colours black and white 
+and the schema of squares? And if there are quite different ways of 
+looking at it, do you still want to say that the chessboard is absolutely 
+‘composite’?—Asking “Is this object composite?” outside a particular 
+language-game is like what a boy once did, who had to say whether 
+the verbs in certain sentences were in the active or passive voice, and 
+who racked his brains over the question whether the verb “to sleep” 
+meant something active' or passive. 
+
+We use the word “composite” (and therefore the Word “simple”) 
+in an enormous number of different and differently related ways. 
+(Is the colour of a square on a chessboard simple, or does it consist 
+of pure white and pure yellow? And is white simple, or does it consist 
+of the colours of the rainbow?—Is this length of 2 cm. simple, or does 
+it consist of two parts, each 1 cm. long? But why not of one bit 
+j cm. long, and one bit 1 cm. long measured in the opposite direction?) 
+
+To the philosophical question: “Is the visual image of this tree omposite, and what are its component parts?” the correct answer is: 
+“That depends on what you understand by ‘composite’.” (And that is 
+of course not an answer but a rejection of the question.) 
+
+48. Let us apply the method of §2 to the account in the Theaefetus. 
+Let us consider a language-game for which this account is really valid. 
+The language serves to describe combinations of coloured squares 
+on a surface. The squares form a complex like a chessboard. There 
+are red, green, white and black squares. The words of the language are 
+(correspondingly) “R”, “G”, “W”, “B”, and a sentence is a series of 
+these words. They describe an arrangement of squares in the order: 
+
+
+I 
+
+2 
+
+J 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+
+And so for instance the sentence “RRBGGGRWW” describes an 
+arrangement of this sort: 
+
+
+
+Here the sentence is a complex of names, to which corresponds a 
+complex of elements. The primary elements are the coloured squares. 
+“But are these simple?”—I do not know what else you would have me 
+call “the simples”, what would be more natural in this language-game. 
+But under other circumstances I should call a monochrome square 
+“composite”, consisting perhaps of two rectangles, or of the elements 
+colour and shape. But the concept of complexity might also be so 
+extended that a smaller area was said to be ‘composed’ of a greater 
+area and another one subtracted from it. Compare the ‘composition of forces*, the ‘division* of a line by a point outside it; these expressions 
+shew that we are sometimes even inclined to conceive the smaller 
+as the result of a composition of greater parts, and the greater as the 
+result of a division of the smaller. 
+
+But I do not know whether to say that the figure described by our 
+sentence consists of four or of nine elements! Well, does the sentence 
+consist of four letters or of nine?—And which are its elements, the 
+types of letter, or the letters? Does it matter which we say, so long as 
+we avoid misunderstandings in any particular case? 
+
+49. But what does it mean to say that we cannot define (that is, 
+describe) these elements, but only name them? This might mean, for 
+instance, that when in a limiting case a complex consists of only one 
+square, its description is simply the name of the coloured square. 
+
+Here we might say—though this easily leads to all kinds of philo¬ 
+sophical superstition—that a sign “R** or “B**, etc. may be sometimes 
+a word and sometimes a proposition. But whether it ‘is a word or a 
+proposition* depends on die situation in which it is uttered or written. 
+For instance, if A has to describe complexes of coloured squares to B 
+and he uses the word “R** alone> we shall be able to say that the word 
+is a description—a proposition. But if he is memorizing the words 
+and their meanings, or if he is teaching someone else the use of the 
+words and uttering them in the course of ostensive teaching, we shall 
+not say that they are propositions. In this situation the word “R”, 
+
+for instance, is not a description; it names an element-but it would be 
+
+queer to make that a reason for saying that an element can only be 
+named! For naming and describing do not stand on the same 
+level: naming is a preparation for description. Naming is so far not a 
+move in the language-game—any more than putting a piece in its place 
+on the board is a move in chess. We may say: nothing has so far been 
+done, when a thing has been named. It has not even got a name except 
+in the language-game. This was what Frege meant too, when he said 
+that a word had meaning only as part of a sentence. 
+
+j o. What does it mean to say that we can attribute neither being nor 
+non-being to elements?—One might say: if everything that we call 
+“being** and “non-being** consists in the existence and non-existence of 
+connexions between elements, it makes no sense to speak of an elements 
+being (non-being); just as when everything that we call “destruction** 
+lies in the separation of elements, it makes no sense to speak of the 
+destruction of an element. 
+
